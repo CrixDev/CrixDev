@@ -13,7 +13,7 @@
 - 💻 Desarrollador web Full-Stack con más de 3 años de experiencia laboral
 - 🚀 Especializado en tecnologías **Front-end** y **Back-end**
 - 📚 Interesado en desarollo de aplicaciones y experiencias de usuario
-- 🌐 Portafolio: [CrixDev](https://crix-portfolio-4xc3.vercel.app/)
+- 🌐 Portafolio: [CrixDev]([https://crix-portfolio-4xc3.vercel.app](https://crix-portfolio-2nq9.vercel.app/))
 - 📩 Contacto: devoracristian100@gmail.com
 
 ---
